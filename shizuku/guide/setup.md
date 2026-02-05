@@ -1,3 +1,4 @@
+setar shizuku
 # User manual
 
 [[toc]]
